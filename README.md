@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Software Engineer | Web Developer | 1x AWS | Devops Enthusiast</p>
+<p align="center">DevOps Engineer | Back-End Developer | 1x AWS</p>
 
 ###
 
