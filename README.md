@@ -1,69 +1,57 @@
-<h1 align="center">Hey I am Ibrahim Saad</h1>
+<h1 align="center">Ibrahim Saad</h1>
 
-###
+<p align="center">
+  <strong>Backend &amp; DevOps Engineer</strong><br />
+  TypeScript · Node.js / NestJS · AWS · Docker
+</p>
 
-<p align="center">DevOps Engineer | Back-End Developer | 1x AWS</p>
+<p align="center">
+  <a href="https://github.com/SirLight134">
+    <img src="https://img.shields.io/badge/GitHub-SirLight134-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub: SirLight134" />
+  </a>
+  <img src="https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS Certified" />
+</p>
 
-###
+---
 
-<div align="center">
-  <img height="302" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrijPGLX7FlFDGRq9WYKdaStw_pAPpfIm-O5nmFnqyJQ&s"  />
-</div>
+## About
 
-###
+Full-stack developer with a backend and DevOps focus. I build with React, Next.js, and TypeScript on the front end and Node.js and NestJS on the server, and I deploy scalable applications on AWS. I work with Docker and Ansible, and I'm exploring how Generative AI fits into modern web experiences. I care about clean architecture and performance.
 
-<h2 align="left"></h2>
+---
 
-###
+## Stack
 
-<p align="left">🚀 Full-Stack Developer specializing in React, Next.js & TypeScript<br>☁️ Building & deploying scalable apps on AWS, diving into DevOps<br>🧠 Exploring the integration of Generative AI into modern web experiences<br>💡 Passionate about clean architecture, performance, and continuous learning</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,cs,nodejs,nestjs,express,react,nextjs,angular,html,css,tailwind,bootstrap,aws,docker,ansible,linux,git,githubactions,postgres,mysql,mongodb,redis&amp;perline=12&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,cs,nodejs,nestjs,express,react,nextjs,angular,html,css,tailwind,bootstrap,aws,docker,ansible,linux,git,githubactions,postgres,mysql,mongodb,redis&amp;perline=12&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,cs,nodejs,nestjs,express,react,nextjs,angular,html,css,tailwind,bootstrap,aws,docker,ansible,linux,git,githubactions,postgres,mysql,mongodb,redis&amp;perline=12&amp;theme=light" alt="TypeScript, JavaScript, Python, C#, Node.js, NestJS, Express, React, Next.js, Angular, HTML, CSS, Tailwind CSS, Bootstrap, AWS, Docker, Ansible, Linux, Git, GitHub Actions, PostgreSQL, MySQL, MongoDB, Redis" />
+  </picture>
+</p>
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## Featured projects
 
-###
+| Project | What it does | Built with |
+| :--- | :--- | :--- |
+| **[Hooli](https://github.com/SirLight134/Hooli)** | Multi-vendor e-commerce SaaS with buyer, seller, and admin roles, Stripe checkout and webhooks, and JWT auth. | TypeScript · Express · React · MongoDB · Stripe |
+| **[microservice-demo](https://github.com/SirLight134/microservice-demo)** | NestJS microservices with RabbitMQ, a transactional outbox, and a saga-based order flow. | NestJS · RabbitMQ · TypeORM · Docker |
+| **[Super Fitness API](https://github.com/SirLight134/Super_Fitness_Gym_App)** | Fitness platform REST API with JWT auth guards and Swagger documentation. | NestJS · PostgreSQL · TypeORM · Swagger |
+| **[Node Express JWT Auth](https://github.com/SirLight134/Node-Express-JWT-Auth)** | JWT authentication with bcrypt password hashing and HTTP-only cookies. | Node.js · Express · MongoDB · EJS |
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="40" alt="bitbucket logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
+<p align="center">
+  <sub>Ibrahim Saad · <a href="https://github.com/SirLight134">github.com/SirLight134</a></sub>
+</p>
 
-###
+<!--
+Add contact links when ready:
+
+<a href="https://www.linkedin.com/in/YOUR-HANDLE/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:YOUR-EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+-->
